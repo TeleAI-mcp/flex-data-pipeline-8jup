@@ -1,2 +1,3 @@
-# flex-data-pipeline-8jup
-A data processing pipeline for modern development workflows
+# Flex Data Pipeline 8Jup
+
+A data processing pipeline for modern development workflows.
